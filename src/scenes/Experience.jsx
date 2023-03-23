@@ -5,16 +5,6 @@ const Experience = () => {
     return(
         <section id="experience" className="pt-10 pb-24 py-48">
             <div className="md:flex md:justify-between md:gap-16 mt-32">
-        <motion.div
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true, amount: 0.5 }}
-          transition={{ duration: 0.5 }}
-          variants={{
-            hidden: { opacity: 0, x: -50 },
-            visible: { opacity: 1, x: 0 },
-          }}
-        >
           <p className="font-dangrek text-4xl mb-5">
            <span>EXPERIENCE</span>
           </p>
@@ -56,8 +46,6 @@ const Experience = () => {
                 <li>Managed website content about the study and its findings</li>
             </ul>
           </p>
-        </motion.div>
-
        
       </div>
         </section>
