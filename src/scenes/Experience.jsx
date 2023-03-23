@@ -5,6 +5,7 @@ const Experience = () => {
     return(
         <section id="experience" className="pt-10 pb-24 py-48">
             <div className="md:flex md:justify-between md:gap-16 mt-32">
+        <div>
           <p className="font-dangrek text-4xl mb-5">
            <span>EXPERIENCE</span>
           </p>
@@ -46,6 +47,8 @@ const Experience = () => {
                 <li>Managed website content about the study and its findings</li>
             </ul>
           </p>
+          </div>
+
        
       </div>
         </section>
