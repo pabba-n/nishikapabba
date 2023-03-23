@@ -76,7 +76,7 @@ const Landing = ({setSelectedPage}) => {
             <SocialMediaIcons/>
         </motion.div>
 
-{/* hello again */}
+{/* hello again again*/}
 
       </div>
     </section>
