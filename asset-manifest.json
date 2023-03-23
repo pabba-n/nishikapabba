@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7f268a4.css",
-    "main.js": "/static/js/main.e75ac4e8.js",
-    "static/media/headshot.jpg": "/static/media/headshot.766473fa507e00e0b250.jpg",
-    "static/media/green-logo.png": "/static/media/green-logo.36d583e8120025f2d799.png",
-    "static/media/black-logo.png": "/static/media/black-logo.56772d1c3c6b4359178c.png",
-    "index.html": "/index.html",
-    "static/media/close-icon.svg": "/static/media/close-icon.84f75eb771344b7f8fb00c9212332127.svg",
-    "static/media/menu-icon.svg": "/static/media/menu-icon.d1ac700d23038da7a59e1cffdef3c56b.svg",
-    "main.f7f268a4.css.map": "/static/css/main.f7f268a4.css.map",
-    "main.e75ac4e8.js.map": "/static/js/main.e75ac4e8.js.map"
+    "main.css": "/nishikapabba/static/css/main.f7f268a4.css",
+    "main.js": "/nishikapabba/static/js/main.6f4626f8.js",
+    "static/media/headshot.jpg": "/nishikapabba/static/media/headshot.766473fa507e00e0b250.jpg",
+    "static/media/green-logo.png": "/nishikapabba/static/media/green-logo.36d583e8120025f2d799.png",
+    "static/media/black-logo.png": "/nishikapabba/static/media/black-logo.56772d1c3c6b4359178c.png",
+    "index.html": "/nishikapabba/index.html",
+    "static/media/close-icon.svg": "/nishikapabba/static/media/close-icon.84f75eb771344b7f8fb00c9212332127.svg",
+    "static/media/menu-icon.svg": "/nishikapabba/static/media/menu-icon.d1ac700d23038da7a59e1cffdef3c56b.svg",
+    "main.f7f268a4.css.map": "/nishikapabba/static/css/main.f7f268a4.css.map",
+    "main.6f4626f8.js.map": "/nishikapabba/static/js/main.6f4626f8.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f268a4.css",
-    "static/js/main.e75ac4e8.js"
+    "static/js/main.6f4626f8.js"
   ]
 }
