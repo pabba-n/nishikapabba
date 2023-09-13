@@ -10,6 +10,16 @@ const Experience = () => {
            <span>EXPERIENCE</span>
           </p>
           <LineGradient width="md:w-1/5" />
+          <h1 className="mt-10 font-dangrek font-bold text-2xl">Athenahealth <span className="font-barlow text-sm ml-5 text-pale-blue"> Jun 2023 - Aug 2023</span></h1>
+          <p className="mt-5 mb-7 font-barlow text-xl ">
+            SOFTWARE ENGINEERING INTERN
+            <ul className="ml-5 list-disc ">
+                <li>Utilized Robotic Process Automation (RPA) to identify issues with insurance portal access beforehand</li>
+                <li>Created a React UI to process a CSV file with credentials and test portal access through REST API requests to the backend service</li>
+                <li>Developed a backend service layer in Java Spring Boot to transform requests from the frontend and submit jobs to the RPA service layer; Stored request data in a PostgreSQL database</li>
+            </ul>
+            
+          </p>
           <h1 className="mt-10 font-dangrek font-bold text-2xl">Delfina Care <span className="font-barlow text-sm ml-5 text-pale-blue"> Jun 2022 - Dec 2022</span></h1>
           <p className="mt-5 mb-7 font-barlow text-xl ">
             SOFTWARE ENGINEERING INTERN
@@ -17,7 +27,6 @@ const Experience = () => {
                 <li>Routed and created new Flutter pages to deliver a better user experience to log health measurements using state management</li>
                 <li>Developed an image serializer to fetch and parse in-line images from third-party content management system; updated REST API and used FastAPI to support new features</li>
                 <li>Rebuilt blog feature to include in-line images and rich-text to inform users of crucial health information during each stage of the pregnancy</li>
-                <li>Obtained debugging and SWE design skills through Python unit testing and Dart developer tools</li>
             </ul>
             
           </p>
